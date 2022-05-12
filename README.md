@@ -1,3 +1,4 @@
+# Project Outline
 Build a virtualized 16-bit computer from first principles, capable of running simple games like Tetris.
 https://www.nand2tetris.org/
 This project is an excellent stepping off point for learning abstraction (what a module does) and implementation (how a module does it) in computer science.
